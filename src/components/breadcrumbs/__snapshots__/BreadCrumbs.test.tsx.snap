@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BreadCrumbs BreadCrumbs renders correctly 1`] = `
+<div>
+  <span>
+    <a
+      href="#"
+    >
+      Главная
+    </a>
+    <span>
+      &gt;
+    </span>
+  </span>
+  <span>
+    <a
+      href="#"
+    >
+      Сериалы
+    </a>
+    <span>
+      &gt;
+    </span>
+  </span>
+  <span>
+    <a
+      href="#"
+    >
+      Психологини
+    </a>
+    <span>
+      &gt;
+    </span>
+  </span>
+  <span>
+    <span>
+      1 сезон
+    </span>
+  </span>
+</div>
+`;
